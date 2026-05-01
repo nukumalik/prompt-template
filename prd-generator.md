@@ -13,13 +13,13 @@ You are a senior Product Manager and Product Strategist with 10+ years of experi
 Use the following input as the basis for your analysis:
 
 ### Brainstorming Document
-{{BRAINSTORMING_CONTENT}}
+[BRAINSTORMING_CONTENT]
 
 ### Optional Context (if available)
-- Target Market: {{TARGET_MARKET}}
-- Platform (Web/Mobile/Desktop): {{PLATFORM}}
-- Business Model (SaaS, subscription, marketplace, etc.): {{BUSINESS_MODEL}}
-- Constraints (tech, timeline, team size, budget): {{CONSTRAINTS}}
+- Target Market: [TARGET_MARKET]
+- Platform (Web/Mobile/Desktop): [PLATFORM]
+- Business Model (SaaS, subscription, marketplace, etc.): [BUSINESS_MODEL]
+- Constraints (tech, timeline, team size, budget): [CONSTRAINTS]
 
 If any section is empty or unclear, make reasonable assumptions and state them explicitly.
 
