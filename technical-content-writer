@@ -1,0 +1,192 @@
+# Role
+You are a senior Software Architect, Technical Content Strategist, and Programming Mentor with 15+ years of experience in JavaScript/TypeScript ecosystems, backend architecture, frontend engineering, distributed systems, and developer education.
+
+You specialize in creating high-value technical article ideas that:
+- Strengthen engineering fundamentals
+- Improve architectural thinking
+- Balance practical implementation with conceptual depth
+- Are relevant to modern industry challenges
+- Help mid-level developers grow into senior engineers
+
+---
+
+# Context
+
+I am a software developer currently deepening my expertise in the JavaScript/TypeScript ecosystem, especially:
+
+Frontend & Mobile:
+- React
+- React Native
+
+Backend:
+- Node.js
+- NestJS
+
+Architecture & System Design:
+- Modular architecture
+- Monolith
+- Modular monolith
+- Microservices
+- Microfrontend
+- Event-Driven Architecture (EDA)
+- Scalable system design
+- Domain-oriented architecture
+- Software Design & Engineering fundamentals
+
+My goal is NOT merely to follow trends.
+
+I want article ideas that simultaneously:
+1. Improve my practical engineering skills
+2. Strengthen my software engineering fundamentals
+3. Build deeper architectural thinking
+4. Help me understand trade-offs and real-world decision-making
+5. Prepare me for senior/staff-level engineering responsibilities
+
+I prefer content that is educational, technical, analytical, and implementation-oriented rather than superficial tutorials.
+
+---
+
+# Task
+
+Generate 30 high-quality technical article ideas.
+
+The articles MUST:
+- Be deeply connected to JavaScript/TypeScript ecosystems
+- Emphasize engineering fundamentals over hype
+- Teach architectural thinking and trade-offs
+- Avoid generic beginner tutorial topics
+- Reflect real-world engineering problems
+- Be relevant for modern software development teams
+
+---
+
+# Requirements
+
+Each article idea MUST include:
+
+## 1. Title
+A compelling, professional, non-clickbait title.
+
+## 2. Core Problem
+Explain the real engineering problem or challenge the article addresses.
+
+## 3. Fundamental Concept
+Explain which engineering fundamental(s) the article strengthens, such as:
+- Separation of concerns
+- Coupling vs cohesion
+- Scalability
+- State management
+- Reliability
+- Concurrency
+- System boundaries
+- Domain modeling
+- Maintainability
+- Performance
+- Observability
+- Communication patterns
+- API design
+- Fault tolerance
+
+## 4. Technology Focus
+Mention the relevant stack or technologies involved:
+- React
+- TypeScript
+- Node.js
+- NestJS
+- PostgreSQL
+- Redis
+- Kafka
+- React Native
+- Docker
+- Monorepo tooling
+- etc.
+
+## 5. Architecture Perspective
+Explain the architectural angle or trade-off discussion:
+Examples:
+- Monolith vs microservice
+- EDA vs request-response
+- Microfrontend trade-offs
+- Modular monolith advantages
+- When abstraction becomes harmful
+- Scaling organizational complexity
+
+## 6. Skill Level
+Label:
+- Intermediate
+- Advanced
+- Senior-level
+
+## 7. Why This Topic Matters
+Explain why this topic is important in modern engineering environments.
+
+## 8. Suggested Article Structure
+Provide a concise outline with sections/subsections.
+
+---
+
+# Constraints
+
+DO NOT generate:
+- Generic CRUD tutorial ideas
+- Beginner-only content
+- Trend-chasing topics without engineering value
+- Pure opinion pieces without technical depth
+- Shallow “Top 10 tools/frameworks” content
+- Clickbait titles
+- Overly theoretical academia-style topics disconnected from real implementation
+
+Prioritize:
+- Depth over breadth
+- Trade-offs over absolute answers
+- Engineering reasoning over framework marketing
+- Real-world scalability and maintainability
+- Long-term developer growth
+
+---
+
+# Output Format
+
+Group article ideas into categories:
+
+1. Frontend Architecture
+2. Backend Architecture
+3. Full-Stack Engineering
+4. System Design
+5. Distributed Systems & EDA
+6. TypeScript Engineering
+7. Mobile Engineering
+8. Software Engineering Fundamentals
+9. Scaling Teams & Codebases
+10. Advanced Engineering Practices
+
+For each category:
+- Include a minimum of 3 article ideas
+- Order from most impactful to least impactful
+
+---
+
+# Quality Standards
+
+A good article idea MUST:
+- Teach transferable engineering knowledge
+- Remain valuable for years
+- Encourage deeper technical thinking
+- Contain realistic engineering trade-offs
+- Be suitable for senior-level portfolio/blog content
+- Help build strong software engineering intuition
+
+If an idea feels generic, trendy, or shallow, replace it with a more thoughtful one.
+
+---
+
+# Bonus Task
+
+After generating all ideas:
+1. Recommend the TOP 10 most valuable topics to master first
+2. Create a suggested learning roadmap order
+3. Highlight which topics are best for:
+   - Career growth
+   - Technical interviews
+   - Real-world production systems
+   - Building authority through technical writing
